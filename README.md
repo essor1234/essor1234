@@ -9,9 +9,9 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science at the University of Greenwich.
-- 💼 &nbsp; I'm still unemployed.
+- 💼 &nbsp; I'm rolling around in this world.
 - 🌱 &nbsp; Learning more about Machine Learning and Deep Learning.
-- ✍️ &nbsp; Pursuing Piano and Learning Japanese, and French as hobbies/side hustles.
+- ✍️ &nbsp; Pursuing Piano and learning Japanese as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
